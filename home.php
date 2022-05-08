@@ -11,7 +11,7 @@
 
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="1000">
-            <img src="img/slider6.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
+            <img src="img/software-libre-1200x565.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
 
             <div class="container-text">
                 <div class="carousel-caption d-none d-md-block">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="carousel-item" data-bs-interval="10000">
-            <img src="img/slider2.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
+            <img src="img/software-libre-1200x565.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
 
             <div class="container-text">
                 <div class="carousel-caption d-none d-md-block">
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/slider3.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
+            <img src="img/software-libre-1200x565.jpg" height="600px" class="d-block w-100 opacity-50" alt="..." />
             <div class="container-text">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>CARACTERIZACIÓN DE TUS PRODUCTOS QUÍMICOS</h5>
@@ -60,13 +60,12 @@
 <div class="featurette" id="nosotros">
     <div class="row featurette">
       <div class="col-md-7">
-        <h1 class="featurette-heading">Nosotros</h1> <h2><span> <br><br>Somos una empresa comprometidos con el medio ambiente.</span></h1>
+        <h1 class="featurette-heading">Nosotros</h1><span> <br><br>Somos una empresa comprometidos con el medio ambiente.</span></h1>
         <p class="lead"> <br>Somos una empresa de desarrollo que ofrece un sistema de información de productos químicos, brindando la información necesaria
                         para atender las necesidades de nuestros clientes, además de cumplir con la normatividad legal vigente referente a sustancias químicas en el pais,
                         protegiendo la salud de sus trabajadores, el medio ambiente y la infraestructura.
 
-                        La mayoría de matrices o herramientas de valoración de riesgos solo tienen en cuenta uno de estos aspectos.
-                         </p>
+                        <b>Quiero probar este parrafo</p>
       </div>
          <div class="col-md-5">
              <img src="img/hero3.png" width="500" height="500"></img>
@@ -78,7 +77,7 @@
 
 <div class="container-card" id="servicios">
     <div class="row">
-    <H1>Servicios</H1>
+    <H1>SERVICIOS</H1>
          <div class="col-4">
             <div class="card">   
                     <img src="img/card1.png" class="img-area" alt="...">      

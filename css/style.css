@@ -65,7 +65,7 @@ html, body {
     .carousel-inner  h5 {
         text-align: center;
         color: #ffffff;
-        font-size: 25px;
+        font-size: 20px;
         margin-bottom: 30px;
         font-weight:bold ;
     }
@@ -73,7 +73,7 @@ html, body {
     .carousel-inner  p {
         color: #ffffff;
         text-align: center;
-        font-size: 20px;
+        font-size: 15px;
         margin-bottom: 25px;
     }
     .carousel-inner .btn {
@@ -196,7 +196,7 @@ html, body {
 .footer .footer-newsletter h2::after {
     position: absolute;
     content: "";
-    width: 45px;
+    width: 60px;
     height: 2px;
     bottom: 0;
     left: 0;
@@ -205,7 +205,7 @@ html, body {
 
 
 .footer .footer-contact p i {
-    width: 25px;
+    width: 50px;
 }
 
 

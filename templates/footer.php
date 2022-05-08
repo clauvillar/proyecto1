@@ -9,7 +9,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="footer-contact">
-                                    <h2>Nuestras oficinas</h2>
+                                    <h3>Nuestras oficinas</h3>
                                     <p><i class="fa fa-map-marker-alt"></i>Carrera 70#55-25, Medellin, Colombia</p>
                                     <p><i class="fa fa-phone-alt"></i>+57 604-8962514</p>
                                     <p><i class="fa fa-envelope"></i>softawechemical@gmail.com</p>
